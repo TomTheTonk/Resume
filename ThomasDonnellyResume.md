@@ -1,9 +1,8 @@
 **Thomas Donnelly**  
 28515 890th Ave. \| Austin, MN 55912  
 (506) 279-9097 \| tommymdonnelly@gmail.com  
-[<u>GitHub: TomTheTonk</u>](https://github.com/TomTheTonk)
-
-[<u>LinkedIn</u>](http://linkedin.com/in/thomas-donnelly-429405320)
+[<u>GitHub: TomTheTonk</u>](https://github.com/TomTheTonk) [<u>LinkedIn:
+Thomas Donnelly</u>](http://linkedin.com/in/thomas-donnelly-429405320)
 
 **EXPERIENCE**
 
@@ -60,3 +59,6 @@
 - **Other:** Teamwork, software engineering, neural networks
 
 **REFERENCES UPON REQUEST**
+
+[**<u>Document Made Using Github
+Actions</u>**](http://github.com/TomTheTonk/Resume)
