@@ -28,6 +28,7 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git add ThomasDonnellyResume.pdf ThomasDonnellyResume.docx ThomasDonnellyResume.html
           git commit -m "Automated document conversion" || echo "No changes to commit"
-          git push
+          git push https://x-access-token:${{ secrets.MARKDOWNTOKEN }}@github.com/TomTheTonk/Resume.git
+
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MARKDOWNTOKEN }}
