@@ -1,0 +1,33 @@
+name: Convert Markdown to Multiple Formats
+
+on: 
+  push:
+    branches:
+      - main  # Runs on every push to the main branch
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc texlive texlive-xetex texlive-fonts-recommended
+
+      - name: Convert Markdown to PDF, DOCX, and HTML
+        run: |
+          pandoc ThomasDonnellyResume.md -o ThomasDonnellyResume.pdf --pdf-engine=xelatex
+          pandoc ThomasDonnellyResume.md -o ThomasDonnellyResume.docx
+          pandoc ThomasDonnellyResume.md -o ThomasDonnellyResume.html
+
+      - name: Commit and Push Generated Files
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add ThomasDonnellyResume.pdf ThomasDonnellyResume.docx ThomasDonnellyResume.html
+          git commit -m "Automated document conversion" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
