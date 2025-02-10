@@ -3,7 +3,7 @@
 (506) 279-9097 \| tommymdonnelly@gmail.com  
 [<u>GitHub: TomTheTonk</u>](https://github.com/TomTheTonk)
 
-[<u>LinkedIn</u>](https://www.linkedin.com/in/thomas-donnelly-429405320/)
+[<u>LinkedIn</u>](http://linkedin.com/in/thomas-donnelly-429405320)
 
 **EXPERIENCE**
 
