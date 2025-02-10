@@ -34,10 +34,6 @@
 - Adapted to pandemic conditions, including state-mandated COVID
   testing, isolation protocols, and monitoring for visitors.
 
-<!-- -->
-
-- 
-
 **EDUCATION**
 
 **Bachelor of Computer Science May 2025**  
