@@ -3,8 +3,8 @@
 (506) 279-9097 \| tommymdonnelly@gmail.com\
 [`<u>`{=html}GitHub:
 TomTheTonk`</u>`{=html}](https://github.com/TomTheTonk)
-
-[`<u>`{=html}LinkedIn`</u>`{=html}](http://linkedin.com/in/thomas-donnelly-429405320)
+[`<u>`{=html}LinkedIn: Thomas
+Donnelly`</u>`{=html}](http://linkedin.com/in/thomas-donnelly-429405320)
 
 **EXPERIENCE**
 
@@ -61,3 +61,6 @@ TomTheTonk`</u>`{=html}](https://github.com/TomTheTonk)
 -   **Other:** Teamwork, software engineering, neural networks
 
 **REFERENCES UPON REQUEST**
+
+[**`<u>`{=html}Document Made Using Github
+Actions`</u>`{=html}**](http://github.com/TomTheTonk/Resume)
