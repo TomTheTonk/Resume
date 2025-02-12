@@ -1,6 +1,6 @@
 **Thomas Donnelly**  
 28515 890th Ave. \| Austin, MN 55912  
-(506) 279-9097 \| tommymdonnelly@gmail.com  
+(507) 279-9097 \| tommymdonnelly@gmail.com  
 [<u>GitHub: TomTheTonk</u>](https://github.com/TomTheTonk) [<u>LinkedIn:
 Thomas Donnelly</u>](http://linkedin.com/in/thomas-donnelly-429405320)
 
