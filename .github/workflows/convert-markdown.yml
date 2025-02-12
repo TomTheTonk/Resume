@@ -30,6 +30,8 @@ jobs:
 
       - name: Commit and Push Generated Files
         run: |
+          INPUTFILE="README"
+          FILENAME="ThomasDonnellyResume"
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add ${FILENAME}.pdf ${FILENAME}.docx ${FILENAME}.html ${FILENAME}.odt ${FILENAME}.txt ${FILENAME}.epub ${FILENAME}.tex
