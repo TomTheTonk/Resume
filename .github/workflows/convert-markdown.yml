@@ -18,14 +18,15 @@ jobs:
 
       - name: Convert Markdown to PDF, DOCX, and HTML
         run: |
+          INPUTFILE="README"
           FILENAME="ThomasDonnellyResume"
-          pandoc ${FILENAME}.md -o ${FILENAME}.pdf --pdf-engine=xelatex -V colorlinks=true -V urlcolor=blue
-          pandoc ${FILENAME}.md -o ${FILENAME}.docx
-          pandoc ${FILENAME}.md -o ${FILENAME}.html
-          pandoc ${FILENAME}.md -o ${FILENAME}.odt
-          pandoc ${FILENAME}.md -o ${FILENAME}.txt
-          pandoc ${FILENAME}.md -o ${FILENAME}.epub
-          pandoc ${FILENAME}.md -o ${FILENAME}.tex
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.pdf --pdf-engine=xelatex -V colorlinks=true -V urlcolor=blue
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.docx
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.html
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.odt
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.txt
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.epub
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.tex
 
       - name: Commit and Push Generated Files
         run: |
