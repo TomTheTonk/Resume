@@ -20,7 +20,7 @@ jobs:
         run: |
           INPUTFILE="README"
           FILENAME="ThomasDonnellyResume"
-          pandoc ${INPUTFILE}.md -o ${FILENAME}.pdf --pdf-engine=xelatex -V colorlinks=true -V urlcolor=blue
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.pdf --pdf-engine=xelatex -V colorlinks=true -V urlcolor=blue -V geometry:margin=1in
           pandoc ${INPUTFILE}.md -o ${FILENAME}.docx
           pandoc ${INPUTFILE}.md -o ${FILENAME}.html
           pandoc ${INPUTFILE}.md -o ${FILENAME}.odt
