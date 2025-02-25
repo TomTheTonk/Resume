@@ -14,12 +14,13 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install Pandoc
-        run: sudo apt-get install -y pandoc texlive texlive-xetex texlive-latex-extra texlive-fonts-extra
+        run: sudo apt-get install -y pandoc texlive texlive-xetex texlive-fonts-recommended
+
       - name: Convert Markdown to PDF, DOCX, and HTML
         run: |
           INPUTFILE="README"
           FILENAME="ThomasDonnellyResume"
-          pandoc ${INPUTFILE}.md -o ${FILENAME}.pdf --pdf-engine=pdflatex -V colorlinks=true -V urlcolor=blue -V geometry:margin=1in
+          pandoc ${INPUTFILE}.md -o ${FILENAME}.pdf --pdf-engine=xelatex -V colorlinks=true -V urlcolor=blue -V geometry:margin=1in
           pandoc ${INPUTFILE}.md -o ${FILENAME}.docx
           pandoc ${INPUTFILE}.md -o ${FILENAME}.html
           pandoc ${INPUTFILE}.md -o ${FILENAME}.odt

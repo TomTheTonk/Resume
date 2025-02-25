@@ -13,7 +13,7 @@ City, IA* **May 2024 - Aug 2024**
 - Learned how to plan, develop, and test software as a team.
 
 - Learned how to use open-source software to create a product. Used
-  [<u>LLAMA</u>](https://www.llama.com) to classify
+  [<u>LLAMA</u>](https://www.llama.com/) to classify
   [<u>LIDAR</u>](https://www.neonscience.org/resources/learning-hub/tutorials/lidar-basics)
   maps.
 
