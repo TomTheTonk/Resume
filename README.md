@@ -77,7 +77,7 @@ Prairie, MN*
   [Git</u>](https://git-scm.com/)/[<u>GitHub](https://github.com/),
   [GitHub Actions](https://github.com/TomTheTonk/Resume/actions),
   [VSCode](https://code.visualstudio.com/),
-  [Docker](https://www.docker.com)</span>
+  [Docker](https://www.docker.com)
 
 - **Databases:** [MySQL](https://www.mysql.com/),
   [DynamoDB](https://aws.amazon.com/dynamodb/)
