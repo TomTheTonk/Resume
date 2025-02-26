@@ -12,10 +12,11 @@ City, IA* **May 2024 - Aug 2024**
 
 - Learned how to plan, develop, and test software as a team.
 
-- Learned how to use open-source software to create a product. Used
-  [LLAMA](https://www.llama.com/) to classify
-  [LIDAR](https://www.neonscience.org/resources/learning-hub/tutorials/lidar-basics)
-  maps.
+- Leveraged open source software, [LLAMA](https://www.llama.com/)
+  models, and open data to classify public
+  [LiDAR](https://www.neonscience.org/resources/learning-hub/tutorials/lidar-basics)
+  information using
+  [SegmentLidar](https://github.com/Yarroudh/segment-lidar).
 
 - Developed a chat platform using
   [Terraform](https://developer.hashicorp.com/terraform/language)
@@ -24,7 +25,7 @@ City, IA* **May 2024 - Aug 2024**
   using
   [Lambda](https://aws.amazon.com/pm/lambda/?gclid=CjwKCAiAiOa9BhBqEiwABCdG8_-jcsK9i3KVP2t5NgupDXinpyF36M-7OgfzGPhJI0F8zaahD0sMmBoC8NIQAvD_BwE&trk=e0e0d4be-47fe-4336-ab69-7eece7f3d36e&sc_channel=ps&ef_id=CjwKCAiAiOa9BhBqEiwABCdG8_-jcsK9i3KVP2t5NgupDXinpyF36M-7OgfzGPhJI0F8zaahD0sMmBoC8NIQAvD_BwE:G:s&s_kwcid=AL!4422!3!652240143523!e!!g!!amazon%20lambda!19878797032!147151597893),
   [SQS</u>](https://aws.amazon.com/sqs/)/[<u>SNS](https://aws.amazon.com/sns/),
-  and public APIs from [Slack](https://slack.com/).
+  and public APIs from [Slack](https://api.slack.com/).
 
 **Certified Nursing Assistant June 2019 – Sept 2021**  
 *[Prairie Manor](https://prairiemanorcare.com/), Blooming
@@ -85,7 +86,7 @@ Prairie, MN*
 - **Development
   Tools:**[ Terraform](https://developer.hashicorp.com/terraform/language),
   [Lambda](https://aws.amazon.com/pm/lambda/?gclid=CjwKCAiAiOa9BhBqEiwABCdG8_-jcsK9i3KVP2t5NgupDXinpyF36M-7OgfzGPhJI0F8zaahD0sMmBoC8NIQAvD_BwE&trk=e0e0d4be-47fe-4336-ab69-7eece7f3d36e&sc_channel=ps&ef_id=CjwKCAiAiOa9BhBqEiwABCdG8_-jcsK9i3KVP2t5NgupDXinpyF36M-7OgfzGPhJI0F8zaahD0sMmBoC8NIQAvD_BwE:G:s&s_kwcid=AL!4422!3!652240143523!e!!g!!amazon%20lambda!19878797032!147151597893),
-  [Github](https://github.com/)
+  [GitHub](https://github.com/)
 
 - **Specialization:** Computer Vision,
   [GDAL](https://gdal.org/en/stable/),
@@ -93,5 +94,5 @@ Prairie, MN*
 
 **REFERENCES UPON REQUEST**
 
-[**<u>Document Made Using Github
-Actions</u>**](http://github.com/TomTheTonk/Resume)
+[**<u>PERMANENT ONLINE
+RESUME</u>**](http://github.com/TomTheTonk/Resume)
