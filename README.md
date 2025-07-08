@@ -6,9 +6,10 @@
 
 **EXPERIENCE**
 
-**Software Engineering Intern May 2023 - Aug 2023**  
+**Software Engineering Intern May 2023 - Aug 2023, May 2024 - Aug
+2024**  
 *[Hobu Inc.](https://www.linkedin.com/company/hobu-inc), Iowa
-City, IA* **May 2024 - Aug 2024**
+City, IA*
 
 - Learned how to plan, develop, and test software as a team.
 
