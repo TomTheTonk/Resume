@@ -43,8 +43,8 @@ Prairie, MN*
 
 **EDUCATION**
 
-**Bachelor of Computer Science May 2025**  
-*Winona State University, Rochester/Winona, MN* *Current GPA: 3.35*
+**Bachelor of Computer Science Graduated May 2025**  
+*Winona State University, Rochester/Winona, MN* *Current GPA: 3.42*
 
 - Coursework includes Java, software engineering principles, databases,
   SQL, and security management.
@@ -58,7 +58,8 @@ Prairie, MN*
   [Java](https://www.java.com/en/),
   [TypeScript](https://www.typescriptlang.org/),
   [Swift](https://www.swift.org/), HTML, CSS,
-  [JavaScript](https://www.javascript.com/)
+  [JavaScript](https://www.javascript.com/),
+  [Rust](https://rustlings.rust-lang.org/)
 
 - **Cloud:**
   [Lambda](https://aws.amazon.com/pm/lambda/?gclid=CjwKCAiAiOa9BhBqEiwABCdG8_-jcsK9i3KVP2t5NgupDXinpyF36M-7OgfzGPhJI0F8zaahD0sMmBoC8NIQAvD_BwE&trk=e0e0d4be-47fe-4336-ab69-7eece7f3d36e&sc_channel=ps&ef_id=CjwKCAiAiOa9BhBqEiwABCdG8_-jcsK9i3KVP2t5NgupDXinpyF36M-7OgfzGPhJI0F8zaahD0sMmBoC8NIQAvD_BwE:G:s&s_kwcid=AL!4422!3!652240143523!e!!g!!amazon%20lambda!19878797032!147151597893),
@@ -90,7 +91,7 @@ Prairie, MN*
 
 - **Specialization:** Computer Vision,
   [GDAL](https://gdal.org/en/stable/),
-  [PDAL](https://pdal.io/en/2.8.4/)
+  [PDAL](https://pdal.io/en/2.8.4/), Cybersecurity
 
 **REFERENCES UPON REQUEST**
 
